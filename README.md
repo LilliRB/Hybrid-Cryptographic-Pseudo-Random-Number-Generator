@@ -1,1 +1,1 @@
-A Hybrid Cryptographic Psedudo Random Number Generator using AES and SHA-3
+A Hybrid Cryptographic Pseudo Random Number Generator using AES and SHAKE256
